@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-sonwane" alt="aadi-sonwane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aadu_1" target="blank"><img src="https://img.shields.io/twitter/follow/aadu_1?logo=twitter&style=for-the-badge" alt="aadu_1" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://innovationcenter.gitam.edu/images/programmer.gif">
+
 - 🔭 I’m currently working on **Java Full Stack**
 
 - 🌱 I’m currently learning **Devops**
@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aadu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadu_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-sonwane-317365210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-sonwane-317365210/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-sonwane-317365210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sonwane-317365210" height="30" width="40" /></a>
 <a href="https://instagram.com/aadu_ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadu_ts" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxs0s2zp2mtdoarcagn6oya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxs0s2zp2mtdoarcagn6oya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aditya sonwane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya sonwane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
