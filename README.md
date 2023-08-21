@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on **Java Full Stack**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Devops & AWS Cloud**
+- 👯 I’m looking to collaborate on **DevOps & AWS Cloud**
 
-- 💬 Ask me about **AWS**
+- 💬 Ask me about **AWS/GCP**
 
 - 📫 How to reach me **aadus.info@gmail.com**
 
