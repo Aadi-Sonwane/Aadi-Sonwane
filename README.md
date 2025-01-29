@@ -14,9 +14,9 @@
 <p align="left"> <a href="https://twitter.com/aadu_1" target="blank"><img src="https://img.shields.io/twitter/follow/aadu_1?logo=twitter&style=for-the-badge" alt="aadu_1" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://innovationcenter.gitam.edu/images/programmer.gif">
 
-- 🔭 I’m currently working on **Java Full Stack**
+- 🔭 I’m currently working on **DevOps Cloud Engineer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **DevOps & AWS Cloud**
 
